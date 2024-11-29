@@ -1,0 +1,218 @@
+% !TeX program = xelatex
+\documentclass{my_cv}
+\title{Resume}
+\author{John Doe}
+\date{June 2024}
+\usepackage[a4paper, left=2em, right=2em, top=2.5em, bottom=0em]{geometry}
+\usepackage{multicol}
+\setlength{\columnsep}{0cm}
+\usepackage{xcolor}
+\usepackage{fontspec}
+\usepackage{setspace}
+\usepackage{lipsum}
+\usepackage[none]{hyphenat}
+\usepackage{changepage}
+\usepackage{hyperref}
+
+\defaultfontfeatures{LetterSpace=2.5}
+
+\hypersetup{
+    unicode=true,
+    colorlinks=true,
+    urlcolor=black,
+}
+
+\setmainfont{ArialMT}[
+    Path=./fonts/,
+    Extension = .ttf,
+    UprightFont=*-Light,
+    BoldFont=*-Medium,
+    ItalicFont=*-Italic,
+    ItalicFeatures={
+        SmallCapsFont=*-Italic,
+    },
+    BoldFeatures={
+        SmallCapsFont=*-Medium,  
+    },
+    SmallCapsFont=*-Medium,
+    ]
+
+\begin{document}
+
+
+\begin{multicols}{3}
+    \headerSection{\badge{Green}{\Large \textbf{\textcolor{white}{Passionnée des politiques environnementales}}}} 
+\end{multicols}
+
+
+\begin{multicols}{2}
+    \headerSection{\Huge \textbf{Jeanne \newline Desrosiers}}
+    \cvParagraph{\href{mailto:xxxxx@xx.com}{jeannedesrosiers@hotmail.com}}
+
+\end{multicols}
+
+\vspace{0.5em}
+\setlength{\columnsep}{1cm}
+
+\cvSection{Expériences de travail}
+\begin{adjustwidth}{2em}{0em}
+
+\positionAndCompanyLine{Étudiante-stagiaire en économie circulaire}{}{2024 - En cours}
+\project{Employeur}{Ministère de l'Environnement, de la Lutte aux changements climatiques, de la Faune et des Parcs}
+\vspace{0.5em}
+
+\positionAndCompanyLine{Préposée aux renseignements et guide}{}{2022 - 2024}
+\project{Employeur}{Équipe de l'accueil, de la boutique et des visites guidées, Assemblée nationale du Québec}
+\vspace{0.5em}
+
+\positionAndCompanyLine{Auxiliaire de recherche en politique et justice climatique}{}{2020 - 2024}
+\project{Employeur}{Observatoire de recherche sur l'économie verte, Université Laval}
+\vspace{0.5em}
+
+\positionAndCompanyLine{Auxiliaire d'enseignement pour le cours Marché et morale}{}{2023}
+\project{Employeur}{Département de science politique, Université Laval}
+\vspace{0.5em}
+
+\positionAndCompanyLine{Auxiliaire d'enseignement pour le cours Politique et justice climatique}{}{2022 - 2023}
+\project{Employeur}{Département de science politique, Université Laval}
+\vspace{0.5em}
+
+\positionAndCompanyLine{Auxiliaire de recherche pour le projet Framenet : Agriculture and climate}{}{2021 - 2022}
+\project{Employeur}{Chaire de recherche sur l'économie politique internationale, Université Laval}
+\vspace{0.5em}
+
+\positionAndCompanyLine{Stagiaire de recherche de premier cycle}{}{2020 - 2021}
+\project{Employeur}{Centre Urbanisation Culture Société, INRS}
+\vspace{0.5em}
+
+\end{adjustwidth}
+
+\vspace{1em}
+
+\cvSection{Études}
+\begin{adjustwidth}{2em}{0em}
+
+\positionAndCompanyLine{Maîtrise professionnelle en science politique}{Université Laval}{2022 - En cours}
+\begin{itemize}
+    \item Essai sur la définition de la notion de déchets en contexte international
+    \item Stage en économie circulaire au MELCCFP (Gouvernement du Québec)
+\end{itemize}
+
+\positionAndCompanyLine{Baccalauréat en science politique}{Université Laval}{2019-2022}
+
+\positionAndCompanyLine{DEC en Sciences humaines}{Cégep Limoilou}{2017-2019}
+\begin{itemize}
+    \item Profil Enjeux internationaux
+\end{itemize}
+
+\end{adjustwidth}
+\vspace{1em}
+
+\begin{multicols}{2}
+    \cvSection{Compétences numériques}
+    \begin{adjustwidth}{1em}{0em}
+    Suite Office: Avancé
+    \newline
+    Trello: Avancé
+    \newline
+    Airtable: Avancé
+    \newline
+    R: Débutant
+    \newline
+    Notion: Débutant
+    \newline
+    HTML: Débutant
+    \end{adjustwidth}
+    \columnbreak
+     \cvSection{Langues}
+    \begin{adjustwidth}{1em}{0em}
+    Français: Langue maternelle
+    \newline
+    Anglais: Avancé - Bilingue
+    \newline
+    Espagnol: Intermédiaire
+    \newline
+    Allemand: Débutant
+    \end{adjustwidth}
+\end{multicols}
+
+\vspace{1em}
+
+\cvSection{Engagements sociaux}
+\begin{adjustwidth}{2em}{0em}
+
+\positionAndCompanyLine{Co-fondatrice et co-directrice pour Dans la mire climatique}{}{2022 - 2024}
+\project{Organisation}{Émission radiophonique sur les ondes de la radio étudiante Chyz 94.3 et en ligne}
+\vspace{0.5em}
+
+\positionAndCompanyLine{Sentinelle en santé psychologique pour le PAE}{}{2023}
+\project{Organisation}{Programme d’aide aux employés (PAE), Assemblée nationale du Québec}
+\vspace{0.5em}
+
+\positionAndCompanyLine{Animatrice du club social de la DAME}{}{2023}
+\project{Organisation}{Direction de l’accueil et de la mission éducative (DAME), Assemblée nationale du Québec}
+\vspace{0.5em}
+
+\positionAndCompanyLine{Éditrice-réviseure}{}{2022}
+\project{Organisation}{Revue Era Novum, EUMC ULaval}
+\vspace{0.5em}
+
+\positionAndCompanyLine{Collaboratrice au blogue}{}{2017-2020}
+\project{Organisation}{Signé Local, Montréal}
+\vspace{0.5em}
+
+\positionAndCompanyLine{Déléguée du Cégep Limoilou aux délibérations nationales}{}{2019}
+\project{Organisation}{Prix littéraire des collégiens, Québec}
+\vspace{0.5em}
+
+\positionAndCompanyLine{Jurée membre du comité du Cégep Limoilou}{}{2018-2019}
+\project{Organisation}{Prix littéraire des collégiens, Québec}
+\vspace{0.5em}
+
+\end{adjustwidth}
+
+\cvSection{Bourse et distinctions}
+\begin{adjustwidth}{2em}{0em}
+    \positionAndCompanyLine{Subvention REGARDS – Objectifs de développement durable (ODD)}{}{2023}
+    \project{Organisation}{Fonds de recherche du Québec}
+    \vspace{0.5em}
+    \positionAndCompanyLine{Tableau d'honneur de la Faculté des sciences sociales}{}{2022}
+    \project{Organisation}{Université Laval}
+    \vspace{0.5em}
+    \positionAndCompanyLine{Bourse de maîtrise en recherche}{}{2022}
+    \project{Organisation}{Fonds de recherche du Québec – Société et culture}
+    \vspace{0.5em}
+    \positionAndCompanyLine{Bourse d’études supérieures du Canada au niveau de la maîtrise}{}{2022}
+    \project{Organisation}{Conseil de recherche en sciences humaines du Canada (CRSH)}
+    \vspace{0.5em}
+    \positionAndCompanyLine{Mention d’honneur du doyen de la Faculté des sciences sociales}{}{2022}
+    \project{Organisation}{Université Laval}
+    \vspace{0.5em}
+    \positionAndCompanyLine{Médaille académique du Gouverneur général}{}{2019}
+    \project{Organisation}{Cégep Limoilou}
+    \vspace{0.5em}
+    \positionAndCompanyLine{Bourse Université Laval de la Fondation du Cégep Limoilou}{}{2019}
+    \project{Organisation}{Cégep Limoilou et Université Laval}
+    \vspace{0.5em}
+    \positionAndCompanyLine{Bourse à l’admission Hydro-Québec}{}{2019}
+    \project{Organisation}{Hydro-Québec}
+    \vspace{0.5em}
+\end{adjustwidth}
+
+\cvSection{Publications}
+\begin{adjustwidth}{2em}{0em}
+    \positionAndCompanyLine{Positionnement stratégique du Québec dans la transition énergétique}{}{2023}
+    \project{Co-auteurs}{Alexandre Gajevic-Sayegh, Laurent Lauzon-Rhéaume, Guillaume Huot et Annabelle Olivier}
+    \project{Revue}{Le Climatoscope}
+    \vspace{0.5em}
+    \positionAndCompanyLine{Opposition parties in times of pandemic}{}{2023}
+    \project{Co-auteurs}{Lydia Laflamme, Jeanne Milot-Poulin, Cedrik Verreault, Carolane Fillion,  Nicolas Patenaude et Marc-André Bodet}
+    \project{Revue}{The Journal of Legislative Studies}
+    \vspace{0.5em}
+    \positionAndCompanyLine{Une transition énergétique juste pour le Québec et le Canada}{}{2022}
+    \project{Co-auteurs}{Alexandre Gajevic-Sayegh, Laurent Lauzon-Rhéaume, Félix Bhérer-Magnan et Sarah-Jane Vincent}
+    \project{Revue}{Le Climatoscope}
+    \vspace{0.5em}
+
+\end{adjustwidth}
+\end{document} ​
