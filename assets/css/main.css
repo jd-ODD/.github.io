@@ -1,5 +1,5 @@
 @import url("fontawesome-all.min.css");
-@import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
+@import url('https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wght@0,200..900;1,200..900&display=swap');
 
 /*
 	Read Only by HTML5 UP
@@ -194,9 +194,9 @@ input,
 select,
 textarea {
   color: #022900;
-  font-family: "Lato", sans-serif;
+  font-family: "Mona Sans", sans-serif;
   font-size: 16pt;
-  font-weight: 400;
+  font-weight: 200;
   line-height: 1.75em;
 }
 
@@ -226,7 +226,7 @@ a:hover {
 strong,
 b {
   color: #0D7D3F;
-  font-weight: 700;
+  font-weight: 300;
 }
 
 em,
@@ -245,7 +245,7 @@ h4,
 h5,
 h6 {
   color: #0D7D3F;
-  font-weight: 700;
+  font-weight: 300;
   line-height: 1em;
   margin: 0 0 0.5625em 0;
 }
@@ -1894,7 +1894,7 @@ header.major h2 {
 header.major h2 + p {
   color: #0D7D3F;
   font-size: 1.75em;
-  font-weight: 700;
+  font-weight: 300;
   margin-top: -0.75em;
 }
 
@@ -1908,7 +1908,7 @@ label {
   color: #FFFFFF;
   display: block;
   font-size: 0.9em;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0 0 1.125em 0;
 }
 
@@ -2632,7 +2632,7 @@ input[type="button"],
   color: #FFFFFF !important;
   cursor: pointer;
   display: inline-block;
-  font-weight: 700;
+  font-weight: 300;
   height: 2.75em;
   line-height: 2.75em;
   padding: 0 1.5em;

@@ -2,43 +2,43 @@
 bibliography: bibliographie.bib
 ---
 
-# Évolution des préoccupations du régime international des déchets
-### Recherche sur l'évolution temporelle des sous-régimes des déchets à partir du cas de la Convention de Bâle
-*par Jeanne Desrosiers*
+# <span style="color: #022900;font-family: helvetica, sans serif;">Évolution des préoccupations du régime international des déchets</span>
+### <span style="color: #0D7D3F;font-family: helvetica, sans serif;">Recherche sur l'évolution temporelle des sous-régimes des déchets à partir du cas de la Convention de Bâle</span>
+<p style="font-family: helvetica, sans serif;">*par Jeanne Desrosiers*</p>
 
-#### Question de recherche et hypothèse
-##### Question de recherche
+#### <span style="color: #022900;font-family: helvetica, sans serif;">Question de recherche et hypothèse</span>
+##### <span style="color: #0D7D3F;font-family: helvetica, sans serif;">Question de recherche</span>
 
-<p align="justify">
+<p align="justify"><p style="font-family: helvetica, sans serif;">
 Avec les évolutions dans les modes de production et de consommation au courant des dernières décennies, les résidus issus de ces activités, les déchets, ont varié de manière importante en nature et en quantité. Alors que de nouvelles exigences en matière de gestion et de réduction des déchets émergent à travers la diffusion du paradigme de l’économie circulaire et l’institutionnalisation de responsabilité concernant les déchets à travers, notamment l’[objectif de développement durable 12 des Nations Unies](https://www.un.org/sustainabledevelopment/fr/sustainable-consumption-production/), les préoccupations concernant les déchets sont amenées à varier, tant à l’échelle nationale qu’à l’échelle internationale, entraînant ainsi un besoin de concertation renouvelé sur la question. En ce sens, il devient donc important d’avoir des pistes pour répondre à la question suivante : comment les préoccupations ou les priorités du régime des déchets évoluent-elles? 
 </p>
 
-##### Revue de la littérature
+##### <span style="color: #0D7D3F;font-family: helvetica, sans serif;">Revue de la littérature</span>
 
-<p align="justify">
+<p align="justify"><p style="font-family: helvetica, sans serif;">
 Concernant l’évolution d’un régime international en environnement, celle-ci présente nécessairement une dimension temporelle, par les échéanciers considérables des négociations internationales qui entraînent des périodes de latence importantes avant d’arriver à des changements au texte fondamental. Une telle évolution, bien qu’elle puisse être étudiée depuis divers points de vue, doit ainsi avant tout être étudiée sous cet angle et à travers des cas qui permettent cette granularité temporelle, sachant qu’un changement de disposition légale en la matière peut prendre près d’une décennie [@berkowitz_transplant_2003]. Cette évolution dans le temps ne doit cependant pas être vue comme une avancée linéaire. Au contraire, les traités internationaux, et donc leur contenu, sont sujets à des dynamiques d’influence diversifiées et parfois opposées et se trouvent impliqués dans des cycles de modification ou de négociation parfois concurrents. Les parties prenantes du traité et leurs comportements se révèlent ainsi cruciaux comme forces motrices dans les itérations du régime et de ses traités [@bloomfield_norm_2016;@moore_negotiating_2012]. Ces acteurs interviennent tout particulièrement pour pousser de nouveaux enjeux sur la scène internationale, en vertu des théories de l’apprentissage, en fonction de leurs expériences ou des expériences de leurs voisins. Vivre les problématiques semble essentiel à leur cadrage en enjeux au sein des négociations par les États concernés [@dobbin_global_2007;@gonenc_conceptualizing_2021].
 </p>
 
-<p align="justify">
+<p align="justify"><p style="font-family: helvetica, sans serif;">
 Concernant précisément le régime international des déchets, celui-ci est principalement basé sur la Convention de Bâle, au long *Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal*, étant le seul traité de portée internationale à cibler spécifiquement la gestion des déchets et étant également le repositoire de la définition de ce qui constitue un déchet pour l’ensemble des autres dispositions juridiques internationales sur la question [@peiry_basel_2013]. Cette Convention est perçue comme particulièrement dynamique de par la nature volontaire de son approche et de sa portée régulatrice [@busch_global_2005;@wiprachtiger_waste_2021]. Elle serait sensible à des changements dans le contexte international, comme l’avènement de l’économie circulaire qui force la diminution des déchets destinés à l’incinération ou à l’enfouissement et ainsi à la fois une réduction des déchets produits, mais aussi une gestion optimisée de ceux-ci [@zeng_reshaping_2022]. En effet, la Convention de Bâle serait dans une recherche constante d'adaptations afin de rester pertinente malgré les changements paradigmatiques concernant le traitement des déchets [@setiawan_basel_2024]. Ainsi, à travers son vocable «other wastes», qui lui permet de dépasser le cadre des déchets dangereux, la Convention a tenté et tente toujours d’intégrer de nouvelles familles de déchets à son traité pour mieux en gérer la production et l’élimination, avec des résultats demeurant mitigés jusqu’à maintenant [@setiawan_basel_2024;@awasthi_circular_2019;@khan_e-products_2016;@ogunseitan_basel_2013;@van_der_marel_trading_2022].
 </p>
 
-##### Hypothèse
+##### <span style="color: #0D7D3F;font-family: helvetica, sans serif;">Hypothèse</span>
 
-<p align="justify">
+<p align="justify"><p style="font-family: helvetica, sans serif;">
 L’hypothèse de ce travail serait donc que la Convention de Bâle évolue en termes de couverture de déchets selon les propositions dérivées des expériences vécues par les États. Celle-ci découle d’une revue de littérature réaliséee par la technique *boule de neige* dans une recherche par Google Scholar, dont les sources pertinentes recueillies ont été collectées et classées en fonction de leur sujet dans Zotero.
 </p>
 
-#### Collecte de données
-##### Méthodologie
+#### <span style="color: #022900;font-family: helvetica, sans serif;">Collecte de données</span>
+##### <span style="color: #0D7D3F;font-family: helvetica, sans serif;">Méthodologie</span>
 
-<p align="justify">
+<p align="justify"><p style="font-family: helvetica, sans serif;">
 Afin de tester l’hypothèse énoncée ci-dessus, la fréquence des mots-clés associés aux différents types de déchets sera mesurée à travers le temps par le biais des comptes-rendus des conférences des parties (COP) du Secrétariat de la Convention. Pour ce faire, les comptes-rendus ont été téléchargés sous forme de fichiers .pdf à partir du site web de la Convention [@secretariat_of_the_basel_convention_reports_nodate]. Dans un premier temps pour repérer les termes associés aux types de déchets à prendre en compte, une première analyse de la fréquence des mots a été réalisée dans R à l’aide des packages *pdftools*, pour extraire le texte des fichiers, *tm*, *tidyverse* et *textclean* pour le nettoyage et la manipulation du texte, puis finalement *quanteda* et *quantedatextstats* pour réaliser l’analyse textuelle de la fréquence des mots. Cette première étape a permis de regrouper les mots-clés revenant les plus fréquemment concernant les types de déchets en 15 types basés sur la famille des déchets, dont les appellations sont conservées en anglais pour éviter toute confusion : *chemicals*, *e-waste*, *plastics*, *microplastics*, *resins*, *batteries*, *household*, *nanomaterials*, *metals*, *oils*, *biomedical*, *pesticides*, *rubber*, *mercury*, *persistent organics pollutants* (*POPs*). Une fois cette première étape complétée, vu l’impossibilité du package *pdftools* à extraire le texte de fichiers .pdf scannés et l’insuffisante performance de l’outil *ocr*, soit reconnaissance optique de caractères, du package *tesseract*, les fichiers .pdf ont été analysés avec l’outil *scan et ocr* d’Adobe et les termes clés identifiés lors de la première ronde d’analyse furent comptabilisés manuellement dans Excel. Le code pour réaliser l’analyse de la fréquence de mots a été rédigé avec l’assistance de ChatGPT d'OpenAI.
 </p>
 
-##### Résultats
+##### <span style="color: #0D7D3F;font-family: helvetica, sans serif;">Résultats</span>
 
-***Tableau des résultats: Fréquences des mentions des sous-régimes aux Conférences des Parties***
+***<span style="color: #0030A0;font-family: helvetica, sans serif;">Tableau des résultats: Fréquences des mentions des sous-régimes aux Conférences des Parties</span>***
 
 | Type| COP1| COP2| COP3| COP4| COP5| COP6| COP7| COP8| COP9| COP10| COP11| COP12| COP13| COP14| COP15| COP16|
 |:----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
@@ -58,14 +58,14 @@ Afin de tester l’hypothèse énoncée ci-dessus, la fréquence des mots-clés 
 |Mercury| 0| 0| 0| 10| 0| 2| 11| 17| 23| 31| 27| 26| 19| 32| 52| 22|
 |POPs| 0| 0| 0| 6| 13| 26| 33| 34| 25| 72| 46| 59| 50| 42| 56| 56|
 
-#### Analyse et visualisation de données
-##### Visualisation
+#### <span style="color: #022900;font-family: helvetica, sans serif;">Analyse et visualisation de données</span>
+##### <span style="color: #0D7D3F;font-family: helvetica, sans serif;">Visualisation</span>
 
-<p align="justify">
+<p align="justify"><p style="font-family: helvetica, sans serif;">
 Ces données ont été comptabilisées manuellement dans Excel et ensuite entrées dans R sous forme de vecteurs par sous-régime combinés dans un data frame qui a permis la visualisation de l’évolution de chacun de ces sous-régimes de déchets, grâce aux packages *ggplot2*, *dplyr* et *tidyr*, avec la réalisation d’un graphique linéaire. Le code pour réaliser le graphique a été rédigé avec l’assistance de ChatGPT d'OpenAI. Le graphique linéaire produit, où l’axe des x représente chacune des COPs, l’axe des y la fréquence des mots associés aux sous-régimes dans le texte et chaque ligne représente un sous-régime, permet de bien saisir les variations des fréquences des mots dans le temps et ainsi l’importance qu’un sous-régime a pu avoir lors des différentes conférences.
 </p>
 
-***Graphique: Évolution des sous-régimes des déchets à travers les Conférences des Parties de la Convention de Bâle***
+***<span style="color: #0030A0;font-family: helvetica, sans serif;">Graphique: Évolution des sous-régimes des déchets à travers les Conférences des Parties de la Convention de Bâle</span>***
 
 ```{r pressure, echo=FALSE, message=FALSE, fig.align='center', fig.height=5, fig.width=10}
 
@@ -149,29 +149,33 @@ ggplot(df_long, aes(x = COP, y = Value, color = Waste, group = Waste)) +
 
 ```
 
-##### Analyse
+##### <span style="color: #0D7D3F;font-family: helvetica, sans serif;">Analyse</span>
 
-<p align="justify">
-Cette visualisation nous permet de faire ressortir différentes tendances évolutives des sous-régimes, mais également de la Convention, qui devraient être approfondies davantage dans des travaux subséquents. Pour ce qui est des sous-régimes, il semblerait que cinq types d’évolution pourraient être identifiés. Il y aurait les régimes sporadiques, qui sont peu abordés en général, mais qui vont connaître de petites poussées dans la fréquence à certains moments précis. On pourrait croire qu’ils sont associés à des interventions de certains États sur le sujet, mais la portée de l'enjeu demeure limitée, car ils préoccupent peu d’États dans leur gestion nationale des déchets ou sont très limités dans leur portée. Des exemples seraient les sous-régimes des *microplastics*, *nanomaterials*, *biomedical waste* et *resins*. 
+<p align="justify"><p style="font-family: helvetica, sans serif;">
+Cette visualisation nous permet de faire ressortir différentes tendances évolutives des sous-régimes, mais également de la Convention, qui devraient être approfondies davantage dans des travaux subséquents. Pour ce qui est des sous-régimes, il semblerait que cinq types d’évolution pourraient être identifiés. Il y aurait les régimes sporadiques, qui sont peu abordés en général, mais qui vont connaître de petites poussées dans la fréquence à certains moments précis. On pourrait croire qu’ils sont associés à des interventions de certains États sur le sujet, mais la portée de l'enjeu demeure limitée, car ils préoccupent peu d’États dans leur gestion nationale des déchets ou sont très limités dans leur portée. Des exemples seraient les sous-régimes des *microplastics*, *nanomaterials*, *biomedical waste* et *resins*.
+</p>
 
-Il y aurait ensuite les régimes à impulsion de courte durée. Ceux-ci vont connaître des hausses remarquables, sans être massives, dans leurs mentions avec une portée sur une ou deux COPs consécutives. Une hypothèse serait que ces changements seraient liés au contexte international, donc à des évènements ou incidents environnementaux qui créent un stress sur ces sous-régimes. Les exemples ici seraient les sous-régimes *metals*, *oils* et *rubber*. D’un autre côté, il aurait les régimes constants de fonds, qui seraient des enjeux qui sont toujours discutés, qui connaissent des variations, mais qui demeurent relativement stables. Ce pourrait être les régimes des déchets *household*, du *mercury* et des *pesticides*. Ce seraient des sous-régimes qui concernent soient des déchets dont la production est toujours constante, comme les déchets domestiques, ou des déchets qui font l’objet de d’autres conventions ([Convention de Minamata](https://minamataconvention.org/fr) sur le mercure, [Convention de Rotterdam](https://www.pic.int/) sur les pesticides). 
+<p align="justify"><p style="font-family: helvetica, sans serif;">
+Il y aurait ensuite les régimes à impulsion de courte durée. Ceux-ci vont connaître des hausses remarquables, sans être massives, dans leurs mentions avec une portée sur une ou deux COPs consécutives. Une hypothèse serait que ces changements seraient liés au contexte international, donc à des évènements ou incidents environnementaux qui créent un stress sur ces sous-régimes. Les exemples ici seraient les sous-régimes *metals*, *oils* et *rubber*. D’un autre côté, il aurait les régimes constants de fonds, qui seraient des enjeux qui sont toujours discutés, qui connaissent des variations, mais qui demeurent relativement stables. Ce pourrait être les régimes des déchets *household*, du *mercury* et des *pesticides*. Ce seraient des sous-régimes qui concernent soient des déchets dont la production est toujours constante, comme les déchets domestiques, ou des déchets qui font l’objet de d’autres conventions ([Convention de Minamata](https://minamataconvention.org/fr) sur le mercure, [Convention de Rotterdam](https://www.pic.int/) sur les pesticides).
+</p>
 
+<p align="justify"><p style="font-family: helvetica, sans serif;">
 Finalement, il y aurait les régimes de croissance, qui constitueraient deux types. Les régimes de croissance explosive, après une forte impulsion dans le nombre de mentions, continuraient de croître progressivement ensuite, comme les sous-régimes *chemicals*, *plastics* et *e-waste*. On pourrait les associer à une proportion accrue dans l’ensemble des déchets étant donné des changements dans la production, mais aussi un constat des impacts négatifs qu’ils posent à grande échelle soutenu par de nombreuses preuves visibles frappantes. Les régimes de croissance par plateau, quant à eux, ont une croissance plus progressive, avec une stabilisation en plateau après une croissance modérée, l’exemple étant le sous-régime des *POPs*. Une explication possible résulterait de la combinaison de connaissances scientifiques des impacts de ce type de déchets en renouvellement continu avec la présence d’une autre Convention qui régulariserait la progression du régime ([Convention de Stockholm](https://chm.pops.int/) sur les POPs).
 </p>
 
-<p align="justify">
+<p align="justify"><p style="font-family: helvetica, sans serif;">
 Cependant, il reste essentiel de prendre en compte les tendances évolutives propres à la Convention, qui lui sont intrinsèques et qui constituent une variable en soit influençant les sous-régimes. En effet, il semble possible d’observer trois périodes de la Convention. La première, la mise en place de la Convention, se traduirait, de manière évidente, avec une concentration sur la structure plutôt que le contenu, peu de sujets étant abordés lors de ces COPs, de là les faibles nombres de mentions obtenus lors des COPs 1 à 4. Ensuite, lors des années subséquentes, une Convention semble alterner entre des périodes de contraction et d’extension normatives, soit des périodes où elle travaille sur son fonctionnement et se contracte autour de son texte fondateur, limitant la discussion sur de nouveaux enjeux (exemples: COP7, COP9, COP11 et possiblement COP16), et des périodes d’extension, où elle cherche à demeurer pertinente et à l’écoute de ses parties prenantes et où on voit sa production en termes de contenu augmenter (exemples: COP8, COP10, COP14 et COP15). Ces tendances propres à la Convention sont importantes à prendre en compte dans l’étude des sous-régimes qui en découlent, autrement certaines variations pourraient être mal interprétées ou surinterprétées. 
 </p>
 
-<p align="justify">
+<p align="justify"><p style="font-family: helvetica, sans serif;">
 Finalement, il semblerait essentiel de souligner que cette analyse se veut exploratoire et donc que les tendances observées restent à étudier plus en profondeur. De plus, ces tendances ne sont pas mutuellement exclusives; un sous-régime peut passer par différentes tendances au courant de son existence, de-là l’importance d’étudier sous un angle temporel les conventions pour comprendre quels enjeux sont traités au niveau international et lesquels restent à la marge, à la fois pour mieux comprendre les relations interétatiques en environnement, mais également pour mieux concentrer nos efforts sur les enjeux qui nécessitent des actions, à la fois dû à une forte demande ou à une négligence sur la question [@@bloomfield_norm_2016].
 </p>
 
-#### Discussion
+#### <span style="color: #022900;font-family: helvetica, sans serif;">Discussion</span>
 
-<p align="justify">
+<p align="justify"><p style="font-family: helvetica, sans serif;">
 Dans le cadre de ce travail, les outils suivants ont été utilisés : Google Scholar, Zotero, R, Adobe et ChatGPT. Le critère prioritaire qui a dirigé le choix de ces outils est l’accessibilité, l’adaptabilité et la compatibilité; il était essentiel pour moi que les outils que j’utilisais soient facilement utilisables, versatiles pour répondre à mes besoins et tous compatibles les uns avec les autres. Google Scholar et Zotero sont apparus comme des outils inévitables pour ma revue de littérature, étant donné l’utilisation quotidienne que j’en fait et ma grande aisance à les utiliser. Ensuite, pour l’analyse des données, mon premier choix était d’utiliser uniquement R, du fait de la flexibilité, la transparence et l’indépendance qui venaient avec son utilisation. Cependant, dû à mon manque de connaissances des packages me permettant de réaliser des analyses de textes, j’ai fait appel à ChatGPT pour m’aider à rédiger mon code, bien que son manque de transparence soit quelque peu contre mes valeurs, puisqu’il demeure le meilleur outil pour accompagner la pratique du codage dans R, particulièrement pour la résolution d’erreurs. J’ai donc utilisé le package *pdftools* pour pouvoir extraire le texte de mes documents .pdf et le package *tesseract* pour sa fonction *ocr* afin d’extraire le texte des documents scannés. Les packages *tidyverse*, *tm* et *textclean* m’ont permis de nettoyer les textes pour les rendre prêts à l’analyse. Les packages *quanteda* et *quantedatextstats* m’ont permis de créer un corpus et de réaliser mes analyses de fréquences des mots. Toutefois, pour réaliser ma seconde analyse concentrée sur les régimes, je remarquais que les occurrences étaient trop faibles pour certains documents, particulièrement pour les documents traités par la fonction *ocr*. Grâce à ChatGPT, j’ai pu comprendre que selon la qualité des documents scannés et possiblement les protections appliquées, la fonction d’*ocr* de *tesseract* n’était pas assez performante. Il m'a recommandé de me tourner vers un logiciel spécialisé. J’ai donc utilisé la fonction premium *Scan et OCR* d’Adobe, en profitant de la version d’essai gratuite, pour traiter mes fichiers .pdf et ensuite comptabiliser manuellement dans un fichier Excel les occurrences des sous-régimes. Cette limite vécue avec R vient possiblement de mon manque de connaissances, mais il demeure qu’Adobe, malgré un manque d’accessibilité lié à ses coûts, est réputé pour avoir la reconnaissance optique de caractères la plus perfectionnée pour les fichiers .pdf. Cependant, j’ai ensuite travaillé avec R pour la visualisation des données, puisqu’il s’agit de l’option qui donne le plus de marge de manœuvre à l’utilisateur pour réaliser des graphiques personnalisés. J’ai encore été assisté de ChatGPT afin de rédiger le code et de l’ajuster pour que le graphique soit plus facilement lisible. Pour réaliser mon graphique linéraire, les packages *dplyr*, *tidyr* et *ggplot2* ont été mise à contribution. En bref, ma démarche et le choix de mes outils ont été motivés par un désir que la science et les activités de recherche qu’elle implique soient accessibles, mais face à certains obstacles rencontrés, il m’a fallu revoir mes attentes et choisir certains outils qui me permettaient d’atteindre mes objectifs dans un échéancier et avec des efforts raisonnables.
 </p>
 
-#### Bibliographie
+#### <span style="color: #022900;font-family: helvetica, sans serif;">Bibliographie</span>
 
